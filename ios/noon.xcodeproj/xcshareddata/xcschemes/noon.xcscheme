@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "noon.app"
-               BlueprintName = "noon"
-               ReferencedContainer = "container:noon.xcodeproj">
+               BuildableName = "Noon.app"
+               BlueprintName = "Noon"
+               ReferencedContainer = "container:Noon.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
                BuildableName = "noonTests.xctest"
                BlueprintName = "noonTests"
-               ReferencedContainer = "container:noon.xcodeproj">
+               ReferencedContainer = "container:Noon.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "noon.app"
-            BlueprintName = "noon"
-            ReferencedContainer = "container:noon.xcodeproj">
+            BuildableName = "Noon.app"
+            BlueprintName = "Noon"
+            ReferencedContainer = "container:Noon.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "noon.app"
-            BlueprintName = "noon"
-            ReferencedContainer = "container:noon.xcodeproj">
+            BuildableName = "Noon.app"
+            BlueprintName = "Noon"
+            ReferencedContainer = "container:Noon.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
